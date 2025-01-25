@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 I’m currently working on test script migration.
-- 🌱 I’m currently learning Deep learning and full-stack development.
+- 🌱 I’m currently learning **Deep Learning** and **full-stack development**.
 - 📫 How to reach me: Email me at xingjunyang@smail.nju.edu.cn
 - ✨ One more thing: Have a look at my online notebook! [`XJYNOTES📒`](https://www.xjynotes.top)
 
