@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on LLM based Fuzz Driver Generation
-- 🌱 I’m currently learning Deep learning and Client-side and server-side development.
+- 🔭 I’m currently working on test script migration.
+- 🌱 I’m currently learning Deep learning and full-stack development.
 - 📫 How to reach me: Email me at xingjunyang@smail.nju.edu.cn
-- ✨ My online notebook: [XJYNOTES](https://www.xjynotes.top)
+- ✨ One more thing: Have a look at my online notebook! [`XJYNOTES📒`](https://www.xjynotes.top)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing-junyang&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="xing-junyang's GitHub Stats" />
