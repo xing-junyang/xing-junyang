@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me at xingjunyang@smail.nju.edu.cn
 - ✨ One more thing: Have a look at my online notebook! [`XJYNOTES📒`](https://www.xjynotes.top)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing-junyang&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="xing-junyang's GitHub Stats" />
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xing-junyang&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="xing-junyang's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@xing_junyang&layout=compact&langs_count=10&theme=transparent&show_icons=true&hide_border=true" alt="xing-junyang's WakaTime Stats" />
+</div>
