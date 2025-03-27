@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on test script migration.
+- 🔭 I’m currently working on test script generation/migration of mobile apps.
 - 🌱 I’m currently learning **Deep Learning** and **full-stack development**.
-- 📫 How to reach me: Email me at xingjunyang@smail.nju.edu.cn
+- 📫 How to reach me: Email me at `xingjunyang` **AT** `smail` **DOT** `nju` **DOT** `edu` **DOT** `cn`
 - ✨ One more thing: Have a look at my online notebook! [`XJYNOTES📒`](https://www.xjynotes.top)
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
