@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on test script generation/migration of mobile apps.
-- 🌱 I’m currently learning **Deep Learning** and **full-stack development**.
+- 🔭 Currently working on **test generation** of mobile apps.
+- 💻 Basically a **full-stack developer**.
+- 💡 Interested in **GUI Automation** and **Software Testing**.
 - 📫 How to reach me: Email me at `xingjunyang` **AT** `smail` **DOT** `nju` **DOT** `edu` **DOT** `cn`
 - ✨ One more thing: Have a look at my online notebook! [`XJYNOTES📒`](https://www.xjynotes.top)
 
